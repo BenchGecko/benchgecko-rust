@@ -1,0 +1,15 @@
+[package]
+name = "benchgecko"
+version = "0.1.0"
+edition = "2021"
+authors = ["BenchGecko <hello@benchgecko.ai>"]
+description = "Rust SDK for BenchGecko — compare LLM benchmarks, estimate inference costs, and explore AI model performance data"
+license = "MIT"
+homepage = "https://benchgecko.ai"
+repository = "https://github.com/BenchGecko/benchgecko-rust"
+documentation = "https://docs.rs/benchgecko"
+readme = "README.md"
+keywords = ["llm", "benchmarks", "ai", "models", "inference"]
+categories = ["data-structures", "science"]
+
+[dependencies]
