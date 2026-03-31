@@ -1,6 +1,6 @@
 [package]
 name = "benchgecko"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["BenchGecko <hello@benchgecko.ai>"]
 description = "Rust SDK for BenchGecko — compare LLM benchmarks, estimate inference costs, and explore AI model performance data"
